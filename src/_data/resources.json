@@ -808,6 +808,18 @@
 			"additional": "Protean Studio",
 			"url": "https://contrast.tools"
 		},
+		{
+			"title": "CoolColor Space Contrast Checker",
+			"description": "A free WCAG 2 contrast checker that shows the contrast ratio and AA/AAA results for normal and large text, with a live preview. Accepts HEX, RGB, HSL, OKLCH or CSS color names.",
+			"additional": "CoolColor Space",
+			"url": "https://coolcolor.space/contrast"
+		},
+		{
+			"title": "CoolColor Space Image Contrast Checker",
+			"description": "Checks text over a photo or screenshot against WCAG 2 (4.5:1, or 3:1 for large text): marks the parts of the background where the text fails and suggests an overlay that fixes it. Runs on the device; nothing is uploaded.",
+			"additional": "CoolColor Space",
+			"url": "https://coolcolor.space/image-contrast-checker"
+		},
     {
 			"title": "Hex Naw",
 			"description": "Hex Naw is a tool that helps designers and developers test entire color systems for contrast and accessibility. Plug in your palette or color system and let Hex Naw do the rest.",
@@ -2337,6 +2349,12 @@
 				"macOS",
 				"Windows"
 			]
+		},
+		{
+			"title": "CoolColor Space Color Blindness Simulator",
+			"description": "A free browser simulator for a photo, a video file or the live phone camera, for protanopia, deuteranopia, tritanopia, the anomalous types with a severity slider, and achromatopsia. Runs on the device; nothing is uploaded.",
+			"additional": "CoolColor Space",
+			"url": "https://coolcolor.space/color-blindness-simulator"
 		},
 		{
 			"title": "Sim Daltonism",
